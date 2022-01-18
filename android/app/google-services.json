@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380911256194",
+    "project_id": "fine-wine-58700",
+    "storage_bucket": "fine-wine-58700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380911256194:android:52e14bcd7a839b59a7ea9b",
+        "android_client_info": {
+          "package_name": "com.example.fine_wine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380911256194-ghsiq3phm4agqv66scqvm5c4tfj4l0j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0xvdz7AaK1TQzSFK2aIJFXkrNUsC1BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380911256194-ghsiq3phm4agqv66scqvm5c4tfj4l0j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
